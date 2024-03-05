@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixelHabits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PixelHabits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=PixelHabits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PixelHabits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/8i3c47"  />
+<div style="width:500px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="500" height="500" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8i3c47"></iframe></div><p><a href="https://imgflip.com/gif/8i3c47">via Imgflip</a></p></div>
 
 ###
 
