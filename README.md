@@ -9,11 +9,13 @@
 
 ###
 
- <img align="right" height="150" src="https://i.imgflip.com/8i3c47.gif" />
+ <!-- <img align="right" height="150" src="https://i.imgflip.com/8i3c47.gif" style="border-radius: 10px;"/> -->
 
 ###
 
-<div align="left">
+<div align="center">
+<img align="left" height="150" src="https://i.imgflip.com/8i3c47.gif" style="border-radius: 10px;"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -31,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- YouTube link -->
   <a href="http://www.youtube.com/@pixelhabits" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" style="border-radius: 10px;" />
@@ -62,7 +64,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" style="border-radius: 10px;" />
   </a>
 </div>
-
 
 ###
 
