@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-<img align="left" height="150" src="https://i.imgflip.com/8i3c47.gif" style="border-radius: 10px;"/>
+<img align="left" height="150" src="https://i.imgflip.com/8j97fl.gif" style="border-radius: 10px;"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
