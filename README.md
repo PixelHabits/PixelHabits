@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Devin Alsup and I'm a software enthusiast from Orlando, FL</h2>
+<h2 align="left">Hi 👋! My name is Devin Alsup and I'm a software dev from Orlando, FL</h2>
 
 ###
 
