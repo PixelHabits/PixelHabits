@@ -55,15 +55,15 @@
   </a>
   <img width="12" />
   <!-- YouTube link -->
-  <a href="http://www.youtube.com/@pixelhabits" target="_blank" style="text-decoration: none;">
+<!--   <a href="http://www.youtube.com/@pixelhabits" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube" height="35" alt="youtube logo"/>
   </a>
-  <img width="12" />
+  <img width="12" /> -->
   <!-- Twitch link -->
-  <a href="https://www.twitch.tv/pixelhabits" target="_blank" style="text-decoration: none;">
+<!--   <a href="https://www.twitch.tv/pixelhabits" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white" height="35" alt="twitch logo"/>
   </a>
-  <img width="12" />
+  <img width="12" /> -->
 </div>
 
 ###
@@ -77,7 +77,7 @@
 
 <div align="center">
 <img align="center" height="150" aspect-ratio="16 / 9" src="https://i.imgflip.com/8j97fl.gif"/>
-<img width="12" />
+<img width="10" />
 <img align="center" height="150" aspect-ratio="16 / 9" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=white&bgColor=black" alt="discord logo"/>
 </div>
 <div align="center">
