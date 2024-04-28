@@ -43,14 +43,14 @@
     <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="35" alt="youtube logo"/>
   </a>
   <img width="12" />
-  <!-- Instagram link -->
-  <a href="https://instagram.com/alsupdevin" target="_blank" style="text-decoration: none;" >
-    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="35" alt="instagram logo"/>
-  </a>
-  <img width="12" />
   <!-- Discord link (usually a server invite link) -->
   <a href="https://discordapp.com/users/804343729908744203" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="35" alt="discord logo"/>
+  </a>
+  <img width="12" />
+  <!-- Instagram link -->
+  <a href="https://instagram.com/alsupdevin" target="_blank" style="text-decoration: none;" >
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="35" alt="instagram logo"/>
   </a>
   <img width="12" />
   <!-- YouTube link -->
