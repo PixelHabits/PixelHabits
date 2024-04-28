@@ -78,7 +78,7 @@
 <div align="center">
 <img align="center" height="150" aspect-ratio="16 / 9" src="https://i.imgflip.com/8j97fl.gif"/>
 <img width="10" />
-<img align="center" height="150" aspect-ratio="16 / 9" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=white&bgColor=black" alt="discord logo"/>
+<img align="center" height="150" aspect-ratio="16 / 9" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&animation=default&layout=default&font=default&fontColor=white&bgColor=black" alt="discord logo"/>
 </div>
 <div align="center">
 </div>
