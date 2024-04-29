@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" alt="typescript logo"  />
+  <img align="center" src="./assets/bash-logo.svg" height="30" alt="Bash logo" />
     <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
     <img width="12" />
