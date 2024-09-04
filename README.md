@@ -1,5 +1,5 @@
 <h2 align="center"><h2 align="center">
-  👋 Tapping keys under Orlando, FL's skies: when !asleep() => code();  – I'm Devin Alsup, confirmed to be 'truthy' and perpetually refactoring life and code with a smile. 😎🧑‍💻
+  👋 Tapping keys under Florida's skies: when !asleep() => code();  – I'm Devin Alsup, confirmed to be 'truthy' and perpetually refactoring life and code with a smile. 😎🧑‍💻
 </h2>
 
 ###
