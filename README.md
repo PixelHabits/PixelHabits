@@ -7,7 +7,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats-pixelhabits-projects.vercel.app/api?username=PixelHabits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&hide=contribs&rank_icon=github" height="150" alt="stats graph"  />
   <span>&nbsp;&nbsp;</span>
-  <img align="center" src="https://github-readme-stats-pixelhabits-projects.vercel.app/api/top-langs?username=PixelHabits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark&hide_border=false&hide=pug,ruby,vue" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats-pixelhabits-projects.vercel.app/api/top-langs?username=PixelHabits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark&hide_border=false&hide=pug,ruby,vue, mako, cmake, handlebars" height="150" alt="languages graph"  />
 </div>
 
 ###
