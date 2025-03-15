@@ -39,7 +39,7 @@
   </a>
   <span>&nbsp;&nbsp;</span>
   <!-- Twitch link -->
-<a href="https://www.twitch.tv/pixelhabits" target="_blank" style="text-decoration: none;">
+<a href="https://www.twitch.tv/pixelarchitect" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white" height="35" alt="twitch logo"/>
   </a>
   <span>&nbsp;&nbsp;</span>
