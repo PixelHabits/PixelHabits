@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/PixelHabits/PixelHabits/output/snake.sv" alt="Github Graph Snake animation" />
+  <img align="center" src="https://raw.githubusercontent.com/PixelHabits/PixelHabits/output/snake.svg" alt="Github Graph Snake animation" />
 </div>
 
 ###
