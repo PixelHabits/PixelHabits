@@ -14,41 +14,6 @@
 ###
 
 <div align="center">
-  <!-- LinkedIn link -->
-  <a href="https://www.linkedin.com/in/devin-alsup-282002272/" target="_blank" style="text-decoration: none;">
-     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" height="35" alt="linkedin logo"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <!-- Gmail link -->
-  <a href="mailto:devinalsup019@gmail.com" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="35" alt="youtube logo"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <!-- Discord link -->
-  <a href="https://discordapp.com/users/804343729908744203" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="35" alt="discord logo"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <!-- Instagram link -->
-  <a href="https://instagram.com/alsupdevin" target="_blank" style="text-decoration: none;" >
-    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="35" alt="instagram logo"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <!-- YouTube link -->
-<a href="http://www.youtube.com/@pixelhabits" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube" height="35" alt="youtube logo"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <!-- Twitch link -->
-<a href="https://www.twitch.tv/pixelarchitect" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white" height="35" alt="twitch logo"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-</div>
-
-###
-
-<div align="center">
   <img align="center" src="./assets/bash-logo.svg" height="30" alt="Bash logo" />
   <span>&nbsp;&nbsp;</span>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
